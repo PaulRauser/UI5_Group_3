@@ -1,5 +1,7 @@
-<mvc:View controllerName="Fiori_Group_3.controller.View1" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
-	xmlns="sap.m" xmlns:l="sap.ui.layout" xmlns:u="sap.ui.unified">
+<mvc:View controllerName="UI5_Group_3.controller.View1" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m" 
+	xmlns:l="sap.ui.layout" 
+	xmlns:u="sap.ui.unified">
 	<App>
 		<pages>
 			<Page title="Ulraubsanträge">
